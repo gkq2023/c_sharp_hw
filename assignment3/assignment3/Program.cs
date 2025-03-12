@@ -1,6 +1,6 @@
 ﻿using System;
 
-// 定义一个接口，所有形状类都需要实现这个接口
+
 public interface IShape
 {
     double CalculateArea();
