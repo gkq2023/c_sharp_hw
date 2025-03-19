@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型链表", "assignment4\泛型链表.csproj", "{828C65F6-3790-40E6-9DB9-387BB59101BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "闹钟", "闹钟\闹钟.csproj", "{AFD4EE83-E3C6-47A2-A1C2-F8400ADC7474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828C65F6-3790-40E6-9DB9-387BB59101BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828C65F6-3790-40E6-9DB9-387BB59101BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828C65F6-3790-40E6-9DB9-387BB59101BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828C65F6-3790-40E6-9DB9-387BB59101BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD4EE83-E3C6-47A2-A1C2-F8400ADC7474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD4EE83-E3C6-47A2-A1C2-F8400ADC7474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD4EE83-E3C6-47A2-A1C2-F8400ADC7474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD4EE83-E3C6-47A2-A1C2-F8400ADC7474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {313945B2-DE16-4C3B-AE31-685C0055408F}
+	EndGlobalSection
+EndGlobal
